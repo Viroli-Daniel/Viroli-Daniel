@@ -1,10 +1,8 @@
 ## Bem-vindo(a) ao perfil do Daniel Viroli 😁
 
  <div>
-  <a href="https://github.com/Viroli-Daniel
-">
-   <a href="https://github.com/Viroli-Daniel
-">
+  <a href="https://github.com/Viroli-Daniel">
+   <a href="https://github.com/Viroli-Daniel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viroli-Daniel
 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viroli-Daniel
