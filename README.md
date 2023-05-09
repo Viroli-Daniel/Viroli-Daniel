@@ -1,9 +1,9 @@
 ## Hi, there! Welcome! 😁
 
  <div>
-  <a href="https://github.com/Viroli-Daniel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viroli-Daniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viroli-Daniel&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/v1roli">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=v1roli&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1roli&layout=compact&langs_count=6&theme=merko"/>
    </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
