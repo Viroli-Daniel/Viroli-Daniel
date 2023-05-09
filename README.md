@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Daniel Viroli 😁
+## Hi, there! Welcome! 😁
 
  <div>
   <a href="https://github.com/Viroli-Daniel">
@@ -13,7 +13,8 @@
  
  <br>
  
-  ### Para me conhecer melhor, segue lá nas redes sociais!
+  ### To get to know me better, follow me on social medias!
+
  
 <div> 
   <a href="https://www.instagram.com/viroli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
