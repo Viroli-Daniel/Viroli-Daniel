@@ -17,7 +17,7 @@
 
  
 <div>
- <a href="https://discord.gg/691735767600332821" target="blank><img scr="https://img.shields.io/Discord-7289DA?style-for-the-badge&logo-discord&logoColor-white" target="blank"></a>
+ <a href="https://discord.gg/691735767600332821" target="blank><img scr="https://img.shields.io/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank"></a>
   <a href="https://www.instagram.com/viroli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danielviroli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
