@@ -1,5 +1,7 @@
 ## Hi, there! Welcome! 😁
 
+Me chamo Daniel, no momento estou estudando HTML, CSS e JavaScript... Mas pretendo me aprofundar em React e NodeJs, para me tornar um dev full stack! 🌱☕
+
  <div>
   <a href="https://github.com/v1roli">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=v1roli&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
