@@ -1,7 +1,7 @@
 ## Hi, there! Welcome! 😁
 
 - ☕ Me chamo Daniel, no momento estou estudando HTML5, CSS e JavaScript...
-- 🌱 Pretendo me aprofundar em React e Node.js, para me tornar um dev full stack! 
+- 🌱 Pretendo me aprofundar em React e Node.js, para me tornar um DEV FULL-STACK.
 
  <div>
   <a href="https://github.com/v1roli">
